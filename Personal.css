@@ -1,0 +1,28 @@
+@charset "UTF-8";
+/* CSS Document */
+body{
+	text-align: center;
+	color: red;
+	background-color: black
+}
+
+#football{
+	float: left; 
+	}
+#tennisrac {
+	float:right;
+}
+#portrait {
+	float: none;
+	position: relative;
+	top: 15px;
+}
+
+a {
+	color:white;
+	position: relative;
+	top: 50px
+		
+		
+}
+		

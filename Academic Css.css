@@ -1,0 +1,29 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	background-color: black;
+	color: red;
+	text-align: center;
+    font-family: fantasy;
+}
+
+
+
+#MakeWhite {
+	color: white;
+}
+li{
+	margin: 10px;
+	list-style-type: none;
+    font-family: sans-serif;
+}
+
+#MakeGreen {
+	color: green
+        
+		
+}
+a {
+	color: white;
+}
+			
